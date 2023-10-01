@@ -28,4 +28,4 @@ Go to exp.mb->LaPLACE_Explainer.java->void and Set file paths to dataFile (for d
  ```
 Go to exp.mb->Evaluate.java->void and Set file paths to dataFile (for data) and exp_File (for explanation).
  ```
-It will provide local accuracy of Random Forests; Bayesian network and Support Vector Machine on explained feature by LaPLACE by validating with 20% of the dataset as test data.
+It will provide local accuracy of Random Forests; Bayesian network and Support Vector Machine on explained features by LaPLACE by validating with 20% of the dataset as test data.
