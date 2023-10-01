@@ -2,6 +2,7 @@
 
 The LaPLACE-Explainer component leverages the concept of a Markov blanket to establish statistical boundaries between relevant and non-relevant features. 
 This approach results in the automatic generation of optimal feature subsets for predictions. 
+# Main Contributions
  ```
 Do not need to predetermine a fixed number (N ) of top features as explanations.
 Offers probabilistic cause-and-effect explanations.
