@@ -21,9 +21,10 @@ Import this repository: "File"->"Import"->"Existing Projects into Workspace"; se
  ```
 # Run the experiment
  ```
-Download the datasets for the experiments in the paper at the following link: https://drive.google.com/drive/folders/1uiC4DNhCZmbWDrBFIRqrTTggIeUSBdcT?usp=sharing
+Download the datasets for the experiments in the paper at the following link: 
 Go to exp.mb->LaPLACE_Explainer.java->void and Set file paths to dataFile (for data) and exp_File (for explanation).
  ```
+https://drive.google.com/drive/folders/1uiC4DNhCZmbWDrBFIRqrTTggIeUSBdcT?usp=sharing
 # Evaluate
  ```
 Go to exp.mb->Evaluate.java->void and Set file paths to dataFile (for data) and exp_File (for explanation).
