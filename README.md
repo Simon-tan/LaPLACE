@@ -32,3 +32,12 @@ https://drive.google.com/drive/folders/1uiC4DNhCZmbWDrBFIRqrTTggIeUSBdcT?usp=sha
 Go to src/main/java/exp.mb->Evaluate.java->void and Set file paths to dataFile (for data) and exp_File (for explanation).
  ```
 It will provide local accuracy of Random Forests; Bayesian network and Support Vector Machine on explained features by LaPLACE by validating with 20% of the dataset as test data.
+# If you find this code useful, Please cite the following paper
+ ```
+@article{minn2023laplace,
+  title={LaPLACE: Probabilistic Local Model-Agnostic Causal Explanations},
+  author={Minn, Sein},
+  journal={arXiv preprint arXiv:2310.00570},
+  year={2023}
+}
+```
